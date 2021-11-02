@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feeax-Tubi
-- 👀 I’m interested in developing mobile apps using flutter and creating incremental games.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in web development and architecture.
+- 🌱 I’m currently learning ASP.NET & C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tugberkgktp@gmail.com or my Discord: Feeax#0139
 
